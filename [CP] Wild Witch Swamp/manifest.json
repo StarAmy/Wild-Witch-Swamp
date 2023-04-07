@@ -1,0 +1,11 @@
+{
+    "Name": "[CP] Wild Witch Swamp",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "A greener, more full replacement map for the Witch's Swamp.",
+    "UniqueID": "StarAmy.Swamp",
+    "MinimumApiVersion": "2.11.0",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
